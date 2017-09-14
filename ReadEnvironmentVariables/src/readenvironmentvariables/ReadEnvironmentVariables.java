@@ -57,7 +57,7 @@ public class ReadEnvironmentVariables extends Application {
 	try {
 
             // load a properties file
-            prop.load(new FileInputStream("/home/jsf3/NetBeansProjects/ShowEnvironmentVariables/envvari.properties"));
+            prop.load(new FileInputStream("/home/jsf3/NetBeansProjects/StoreEnvironmentVariables/envvari.properties"));
 
             // get the property value and print it out
             
